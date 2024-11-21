@@ -6,7 +6,7 @@ noCvSs = true
 exportGlyphNames = false
 
 [buildPlans.HansCode.variants.design]
-one = "no-base"
+one = "base"
 two = "straight-neck-serifless"
 three = "flat-top-serifless"
 four = "closed-serifless"
@@ -19,7 +19,7 @@ capital-a = "straight-serifless"
 capital-b = "standard-serifless"
 capital-d = "standard-serifless"
 capital-g = "toothless-rounded-serifless-hooked"
-capital-j = "serifed"
+capital-j = "flat-hook-serifed"
 capital-k = "symmetric-touching-serifless"
 capital-m = "hanging-serifless"
 capital-q = "straight"
