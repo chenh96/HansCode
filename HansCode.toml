@@ -74,9 +74,6 @@ lig-hyphen-chain = "without-notch"
 lig-plus-chain = "without-notch"
 lig-double-arrow-bar = "without-notch"
 
-[buildPlans.HansCode.ligations]
-inherits = "dlig"
-
 [buildPlans.HansCode.weights.Regular]
 shape = 400
 menu = 400
